@@ -1,0 +1,25 @@
+Zorko::Utils::Help::Msg version 0.0001
+
+Creates a simple help message for use in CLI scripts
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+    perl Makefile.PL
+    make
+    make test
+    make install
+
+
+DEPENDENCIES
+
+None.
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2015, Zorko
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
